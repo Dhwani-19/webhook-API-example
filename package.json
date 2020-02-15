@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Dhwani-19/webhook-API-example/issues"
   },
-  "homepage": "https://github.com/Dhwani-19/webhook-API-example#readme"
+  "homepage": "https://github.com/Dhwani-19/webhook-API-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  }
 }
